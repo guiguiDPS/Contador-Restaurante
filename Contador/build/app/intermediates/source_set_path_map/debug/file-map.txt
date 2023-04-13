@@ -1,0 +1,12 @@
+com.example.contador.app-debug-0 C:\PAN\Contador-Restaurante\Contador\android\app\src\debug\res
+com.example.contador.app-main-1 C:\PAN\Contador-Restaurante\Contador\android\app\src\main\res
+com.example.contador.app-pngs-2 C:\PAN\Contador-Restaurante\Contador\build\app\generated\res\pngs\debug
+com.example.contador.app-resValues-3 C:\PAN\Contador-Restaurante\Contador\build\app\generated\res\resValues\debug
+com.example.contador.app-rs-4 C:\PAN\Contador-Restaurante\Contador\build\app\generated\res\rs\debug
+com.example.contador.app-mergeDebugResources-5 C:\PAN\Contador-Restaurante\Contador\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.contador.app-mergeDebugResources-6 C:\PAN\Contador-Restaurante\Contador\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.contador.app-merged_res-7 C:\PAN\Contador-Restaurante\Contador\build\app\intermediates\merged_res\debug
+com.example.contador.app-jetified-window-1.0.0-beta04-8 C:\Users\guilh\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.contador.app-jetified-annotation-experimental-1.1.0-9 C:\Users\guilh\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.contador.app-core-1.6.0-10 C:\Users\guilh\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.contador.app-jetified-window-java-1.0.0-beta04-11 C:\Users\guilh\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res

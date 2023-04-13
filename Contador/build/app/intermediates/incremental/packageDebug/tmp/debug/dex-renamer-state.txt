@@ -1,0 +1,4 @@
+#Wed Apr 12 12:34:10 BRT 2023
+base.0=C\:\\PAN\\Contador-Restaurante\\Contador\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
